@@ -10,6 +10,7 @@ body {
     width: 80%;
     margin: auto;
     max-width: 1200px; /* Adjust maximum width as needed */
+    
 }
 
 /* Header Styles */
@@ -18,7 +19,6 @@ header {
     color: #fff;
     padding: 10px 0;
     text-align: center;
-
 }
 
 header nav ul {
@@ -89,11 +89,15 @@ footer {
     position: fixed;
     bottom: 0;
     left: 0;
-
+   
+    
+    
 }
 
 footer p {
     margin: 0;
+    
+    
 }
 
 footer a {
